@@ -3,6 +3,8 @@
   "block.neapolitan.chocolate_ice_cream_block": "Bloque de helado de chocolate",
   "block.neapolitan.strawberry_ice_cream_block": "Bloque de helado de fresa",
   "block.neapolitan.banana_ice_cream_block": "Bloque de helado de plátano",
+  "block.neapolitan.mint_ice_cream_block": "Bloque de helado de menta",
+  "block.neapolitan.adzuki_ice_cream_block": "Bloque de helado de azuki",
 
   "block.neapolitan.chocolate_block": "Bloque de chocolate",
   "block.neapolitan.chocolate_bricks": "Ladrillos de chocolate",
@@ -29,23 +31,35 @@
   "block.neapolitan.vanilla_pod_block": "Bloque de vainas de vainilla",
   "block.neapolitan.dried_vanilla_pod_block": "Bloque de vainas de vainilla secas",
   "block.neapolitan.banana_crate": "Cajón de plátanos",
+  "block.neapolitan.mint_basket": "Canasta de menta",
+  "block.neapolitan.adzuki_crate": "Cajón de azukis",
+  "block.neapolitan.roasted_adzuki_crate": "Cajón de azukis asados",
 
   "block.neapolitan.strawberry_bush": "Arbusto de fresas",
 
   "block.neapolitan.vanilla_vine": "Enredadera de vainilla",
   "block.neapolitan.vanilla_vine_plant": "Enredadera de vainilla",
+  "block.neapolitan.mint": "Menta",
 
   "block.neapolitan.banana_stalk": "Tallo de platanera",
+  "block.neapolitan.carved_banana_stalk": "Tallo de bananera esculpido",
   "block.neapolitan.banana_bundle": "Fardo de plátanos",
 
   "block.neapolitan.small_banana_frond": "Hoja de plátano pequeña",
   "block.neapolitan.banana_frond": "Hoja de plátano",
   "block.neapolitan.large_banana_frond": "Hoja de plátano grande",
 
+  "block.neapolitan.adzuki_sprouts": "Brotes de azuki",
+  "block.neapolitan.adzuki_soil": "Tierra con azukis",
+  "block.neapolitan.beanstalk": "Tallo de judía",
+  "block.neapolitan.beanstalk_thorns": "Espinas de tallo de judía",
+
   "block.neapolitan.chocolate_cake": "Tarta de chocolate",
   "block.neapolitan.strawberry_cake": "Tarta de fresa",
   "block.neapolitan.vanilla_cake": "Tarta de vainilla",
   "block.neapolitan.banana_cake": "Tarta de plátano",
+  "block.neapolitan.mint_cake": "Tarta de menta",
+  "block.neapolitan.adzuki_cake": "Tarta de azuki",
 
   "item.neapolitan.milk_bottle": "Frasco con leche",
   "item.neapolitan.ice_cubes": "Cubos de hielo",
@@ -76,10 +90,29 @@
   "item.neapolitan.banana_bread": "Pan de plátano",
   "item.neapolitan.bananarrow": "Platanaflecha",
 
+  "item.neapolitan.mint_sprout": "Brote de menta",
+  "item.neapolitan.mint_leaves": "Hojas de menta",
+  "item.neapolitan.mint_chops": "Cordero a la menta crudo",
+  "item.neapolitan.cooked_mint_chops": "Cordero a la menta cocinado",
+  "item.neapolitan.mint_ice_cream": "Helado de menta",
+  "item.neapolitan.mint_milkshake": "Batido de menta",
+  "item.neapolitan.mint_candies": "Dulces de menta",
+
+  "item.neapolitan.adzuki_beans": "Judías azuki",
+  "item.neapolitan.roasted_adzuki_beans": "Judías azuki asadas",
+  "item.neapolitan.adzuki_bun": "Bollo de azukis",
+  "item.neapolitan.adzuki_stew": "Guiso de azukis",
+  "item.neapolitan.adzuki_ice_cream": "Helado de azuki",
+  "item.neapolitan.adzuki_milkshake": "Batido de azuki",
+  "item.neapolitan.magic_beans": "Judías mágicas",
+
   "item.neapolitan.chocolate_strawberries": "Fresas con chocolate",
   "item.neapolitan.white_strawberries": "Fresas blancas",
   "item.neapolitan.vanilla_chocolate_fingers": "Palitos de vainilla con chocolate",
   "item.neapolitan.strawberry_banana_smoothie": "Smoothie de fresa y plátano",
+  "item.neapolitan.mint_chocolate": "Chocolate con menta",
+  "item.neapolitan.strawberry_bean_bonbons": "Bombones de judías con fresa",
+  "item.neapolitan.adzuki_curry": "Curry de azukis",
   "item.neapolitan.neapolitan_ice_cream": "Helado napolitano",
 
   "item.neapolitan.chimpanzee_banner_pattern": "Diseño de estandarte",
@@ -97,6 +130,8 @@
   "effect.neapolitan.vanilla_scent": "Aroma de vainilla",
   "effect.neapolitan.agility": "Agilidad",
   "effect.neapolitan.slipping": "Desliz",
+  "effect.neapolitan.berserking": "Frenesí",
+  "effect.neapolitan.harmony": "Armonía",
 
   "advancements.husbandry.creeper_heal.title": "Bomba de amor",
   "advancements.husbandry.creeper_heal.description": "Sé curado por un creeper que haya explotado en un arbusto de fresas",
