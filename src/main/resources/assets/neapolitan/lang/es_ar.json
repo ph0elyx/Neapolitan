@@ -50,8 +50,8 @@
 
   "block.neapolitan.adzuki_sprouts": "Brotes de azuki",
   "block.neapolitan.adzuki_soil": "Tierra con azukis",
-  "block.neapolitan.beanstalk": "Tallo de frijol",
-  "block.neapolitan.beanstalk_thorns": "Espinas de tallo de frijol",
+  "block.neapolitan.beanstalk": "Tallo de poroto",
+  "block.neapolitan.beanstalk_thorns": "Espinas de tallo de poroto",
 
   "block.neapolitan.chocolate_cake": "Torta de chocolate",
   "block.neapolitan.strawberry_cake": "Torta de frutilla",
@@ -97,20 +97,20 @@
   "item.neapolitan.mint_milkshake": "Licuado de menta",
   "item.neapolitan.mint_candies": "Caramelos de menta",
 
-  "item.neapolitan.adzuki_beans": "Frijoles azuki",
-  "item.neapolitan.roasted_adzuki_beans": "Frijoles azuki asados",
+  "item.neapolitan.adzuki_beans": "Porotos azuki",
+  "item.neapolitan.roasted_adzuki_beans": "Porotos azuki asados",
   "item.neapolitan.adzuki_bun": "Bollo de azukis",
   "item.neapolitan.adzuki_stew": "Guiso de azukis",
   "item.neapolitan.adzuki_ice_cream": "Helado de azuki",
   "item.neapolitan.adzuki_milkshake": "Licuado de azuki",
-  "item.neapolitan.magic_beans": "Frijoles mágicos",
+  "item.neapolitan.magic_beans": "Porotos mágicos",
 
   "item.neapolitan.chocolate_strawberries": "Frutillas con chocolate",
   "item.neapolitan.white_strawberries": "Frutillas blancas",
   "item.neapolitan.vanilla_chocolate_fingers": "Palitos de vainilla con chocolate",
   "item.neapolitan.strawberry_banana_smoothie": "Smoothie de frutilla y banana",
   "item.neapolitan.mint_chocolate": "Chocolate con menta",
-  "item.neapolitan.strawberry_bean_bonbons": "Bombones de frijoles con frutilla",
+  "item.neapolitan.strawberry_bean_bonbons": "Bombones de porotos con frutilla",
   "item.neapolitan.adzuki_curry": "Curry de azukis",
   "item.neapolitan.neapolitan_ice_cream": "Helado napolitano",
 
